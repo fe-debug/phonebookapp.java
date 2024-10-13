@@ -1,7 +1,7 @@
 PHONEBOOKAPP DOCUMENT
 
 GROUP PROJECT SUBMITTED BY:  Amilkar Manuel 224090232, 
-members:  Amilkar Manuel 224090232, Lucio Serafim 224095048, TK Hambira 220997755, Martin Nginyengwa 223038245, Kauarive Katjaita 223077267 and Vitjiukua Kaereho 223053317
+members:  Amilkar Manuel 224090232, Lucio Serafim 224095048, TK Hambira 220097755, Martin Nginyengwa 223038245, Kauarive Katjaita 223077267 and Vitjiukua Kaereho 223053317
 
 
 This documentation provides an overview of the phonebook functions implemented in pseudocode. The phonebook allows users to manage contacts through various operations, including adding, searching, displaying, deleting, updating, sorting, and analyzing search efficiency. we used linked list as our data structure.
@@ -90,7 +90,7 @@ Conclusion
 This phonebook implementation allows users to effectively manage contacts with operations for insertion, search, display, deletion, updating, sorting, and performance analysis. The structure is based on a linked list, providing flexibility in managing the contacts.
 
 
-CONTRIBUTIONS: Lucio Serafim 224095048, TK Hambira 220997755 AND Martin Nginyengwa 223038245 -LEAD DEVELOPERS: RESPONSIBLE FOR IMPLEMENTING THE CORE FUNCTIONALITIES OF THE APPLICATION,AND DESIGNED THE USER INTERFACE and java codes to run the application.
+CONTRIBUTIONS: Lucio Serafim 224095048, TK Hambira 220097755 AND Martin Nginyengwa 223038245 -LEAD DEVELOPERS: RESPONSIBLE FOR IMPLEMENTING THE CORE FUNCTIONALITIES OF THE APPLICATION,AND DESIGNED THE USER INTERFACE and java codes to run the application.
 
 Kauarive Katjaita 223077267 , Amilkar Manuel 224090232 AND Vitjiukua Kaereho 223053317 - DOCUMENTATION SPECIALISTS: CREATED A DETAILED DOCUMENTATION FOR THE APPLICATION following each modules pseudocode and flowchart and other project resources.
 
