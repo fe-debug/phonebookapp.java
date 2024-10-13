@@ -1,4 +1,9 @@
-Phonebook Documentation
+PHONEBOOKAPP DOCUMENT
+
+GROUP PROJECT SUBMITTED BY:  Amilkar Manuel 224090232, 
+members:  Amilkar Manuel 224090232, Lucio Serafim 224095048, TK Hambira 220997755, Martin Nginyengwa 223038245, Kauarive Katjaita 223077267 and Vitjiukua Kaereho 223053317
+
+
 This documentation provides an overview of the phonebook functions implemented in pseudocode. The phonebook allows users to manage contacts through various operations, including adding, searching, displaying, deleting, updating, sorting, and analyzing search efficiency.
 
 Table of Contents
